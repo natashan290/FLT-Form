@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -357,8 +356,6 @@
             <option value="404 - Daantjie">404 - Daantjie</option>
             <option value="MYS580 - Mayfield Square">MYS580 - Mayfield Square</option>S
           </select>
-        </td>
-      </tr>
     </table>
 
     <h3>Current status of Physical and Logical connectivity (LAN and WAN):</h3>
